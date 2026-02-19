@@ -1,4 +1,14 @@
+Install the Dependencies
+
 speechrecognition
 pyttsx3
 pyautogui
 openai
+
+## 🎬 Example Commands
+
+- "Jarvis, what time is it?"
+- "Jarvis, open YouTube"
+- "Jarvis, search Google for Python tutorials"
+- "Jarvis, take screenshot"
+- "Jarvis, exit"
