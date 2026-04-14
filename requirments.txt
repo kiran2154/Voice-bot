@@ -1,14 +1,56 @@
-Install the Dependencies
+## 📦 Requirements
 
+Make sure you have the following installed:
+
+- Python 3.11 (Recommended) or Python 3.13
+- pip (Python package manager)
+
+### 🔹 Required Libraries
+
+Install using:
+
+```bash
+pip install pyautogui speechrecognition pyttsx3 pillow pyscreeze
+
+for microphone
+pip install pipwin
+pipwin install pyaudio
+
+pyautogui
 speechrecognition
 pyttsx3
-pyautogui
-openai
+pillow
+pyscreeze
 
-## 🎬 Example Commands
+## 🗣️ Example Commands
 
-- "Jarvis, what time is it?"
-- "Jarvis, open YouTube"
-- "Jarvis, search Google for Python tutorials"
-- "Jarvis, take screenshot"
-- "Jarvis, exit"
+You can interact with the assistant using natural voice or text commands:
+
+### 🔹 Basic Commands
+- "hello"
+- "hi"
+- "what is the time"
+- "what is today's date"
+
+### 🔹 Web Commands
+- "open youtube"
+- "search google for python tutorials"
+- "youtube play music"
+- "open github"
+
+### 🔹 Application Commands
+- "open notepad"
+- "open calculator"
+- "open command prompt"
+
+### 🔹 System Controls
+- "volume up"
+- "volume down"
+- "mute"
+- "take screenshot"
+- "lock system"
+
+### 🔹 Exit
+- "exit"
+- "quit"
+- "bye"
